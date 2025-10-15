@@ -56,7 +56,21 @@ Beyond coding, I have a passion for:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-darvishi&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" alt="Top Languages" />
 </p>
 
+
 ---
+
+
+
+
+### 🔥 GitHub Streak
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-darvishi&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+### 📝 My latest activities
+<img alt="mahdi-darvishi's recent activity" src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-darvishi&theme=github-dark" />
+
 
 ### 📬 Let's Connect!
 
@@ -65,3 +79,4 @@ Beyond coding, I have a passion for:
 | **LinkedIn** | <a href="https://linkedin.com/in/mehdidarvishiii" target="_blank">mehdidarvishiii</a> |
 | **Email** | <a href="mailto:mehdidarvishi2004@gmail.com" target="_blank">mehdidarvishi2004@gmail.com</a> |
 | **GitHub** | [mahdi-darvishi](https://github.com/mahdi-darvishi) |
+
