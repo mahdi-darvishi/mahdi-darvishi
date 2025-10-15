@@ -62,6 +62,6 @@ Beyond coding, I have a passion for:
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [mehdidarvishiii](https://linkedin.com/in/mehdidarvishiii) |
-| **Email** | mehdidarvishi2004@gmail.com |
+| **LinkedIn** | <a href="https://linkedin.com/in/mehdidarvishiii" target="_blank">mehdidarvishiii</a> |
+| **Email** | <a href="mailto:mehdidarvishi2004@gmail.com" target="_blank">mehdidarvishi2004@gmail.com</a> |
 | **GitHub** | [mahdi-darvishi](https://github.com/mahdi-darvishi) |
