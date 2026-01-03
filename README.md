@@ -54,10 +54,6 @@
   <img src="https://streak-stats.demolab.com/?user=mahdi-darvishi&theme=tokyonight&hide_border=true&mode=daily" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img alt="mahdi-darvishi's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-darvishi&theme=tokyonight" width="100%" />
-</p>
-
 ---
 
 <h3 align="center">⚡ Passions & Interests</h3>
