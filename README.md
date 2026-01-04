@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" width="80%">
-  I craft high-performance, accessible, and visually stunning web interfaces. With over <b>3+ years of experience</b>, I specialize in building scalable applications using the modern JavaScript ecosystem, with a relentless focus on seamless User Experience (UX).
+  I craft high-performance, accessible, and visually stunning web interfaces. With over <b>4+ years of experience</b>, I specialize in building scalable applications using the modern JavaScript ecosystem, with a relentless focus on seamless User Experience (UX).
 </p>
 
 <p align="center">
