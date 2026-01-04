@@ -45,14 +45,27 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahdi-darvishi&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Mahdi's Stats" height="150"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahdi-darvishi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahdi-darvishi&theme=tokyonight&hide_border=true&mode=daily" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahdi-darvishi&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-darvishi&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+
+  <a href="https://github.com/mahdi-darvishi">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahdi-darvishi&theme=github_dark" alt="Profile Details" />
+  </a>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahdi-darvishi&theme=github_dark" alt="Stats" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahdi-darvishi&theme=github_dark&exclude=html,css" alt="Languages" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahdi-darvishi&theme=github_dark&utcOffset=3.5" alt="Productive Time" />
+  
+
+  
+</div>
 
 ---
 
